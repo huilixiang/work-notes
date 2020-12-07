@@ -29,6 +29,17 @@ $$\Large ||h_p||^2 = \left \langle h_p, h_p \right \rangle = T . 上面积分式
 在此空间上， 定义在[0, T]区间上的函数f， 可以写作：
 $$\Large f(x) = \sum_p c_p h_p(x)$$
 因为
+$$\Large \left \langle f, h_p \right \rangle $$
+
+
+
+
+
+
+
+
+
+
 
 
 
