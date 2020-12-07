@@ -21,7 +21,7 @@ $$\Large \left \langle f, g \right \rangle = lim_{\Delta x \to 0} \sum_{i}f(x_i)
 让我们定义基函数： $$\{h_p\}_{p=-\infty}^{+\infty}$$.  p是整数。 
 $$\Large h_p(x) = e^{\frac{i2\pi px}{T}}$$ , 定义在区间[0, T]上。 i是虚数。
 我们来证明， 任意两个基函数是正交的：
-$$\Large \left \langle h_p, h_q \right \rangle = \int_{0}^{T}h_p(x)\bar{h}_q(x) dx = \int_{0}^{T} e^{\frac{i2\pi px}{T}} e^{-\frac{i2\pi px}{T}}$$
+$$\Large \left \langle h_p, h_q \right \rangle = \int_{0}^{T}h_p(x)\bar{h}_q(x) dx = \int_{0}^{T} e^{\frac{i2\pi px}{T}} e^{-\frac{i2\pi px}{T}}dx = 0$$
 
 
 
