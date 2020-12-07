@@ -31,7 +31,7 @@ $$\Large f(x) = \sum_p c_p h_p(x)$$
 因为
 $$\Large \left \langle f, h_p \right \rangle = \left \langle \sum_q c_q f_q(x), f_p(x) \right \rangle = \sum_q c_q \left \langle h_q(x) ,h_p(x) \right \rangle = c_q T$$
 所以系数
-$$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \int_{0}^{T}f(x) \bar{h}_p(x) dx $$
+$$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \int_{0}^{T}f(x) \bar{h}_p(x) dx =  \frac{1}{T} \int_{0}^{T}f(x) e^{-i2 \pi px} dx $$
 
 <br/>
 <br/>
