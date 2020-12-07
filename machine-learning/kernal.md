@@ -26,7 +26,7 @@ $$\Large \left \langle h_p, h_q \right \rangle = \int_{0}^{T}h_p(x)\bar{h}_q(x) 
 复数的内积 $$ \left \langle u, v \right \rangle = \bar{v} * u , \bar{v}与v共轭$$
 $$\Large ||h_p||^2 = \left \langle h_p, h_p \right \rangle = T . 上面积分式中指数部分相加为0, 因此等于1$$
 
-
+对于
 
 
 
