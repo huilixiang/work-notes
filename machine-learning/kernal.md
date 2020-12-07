@@ -30,6 +30,7 @@ $$\Large ||h_p||^2 = \left \langle h_p, h_p \right \rangle = T . 上面积分式
 $$\Large f(x) = \sum_p c_p h_p(x)$$
 因为
 $$\Large \left \langle f, h_p \right \rangle = \left \langle \sum_q c_q f_q(x), f_p(x) \right \rangle = \sum_q c_q \left \langle h_q(x) ,h_p(x) \right \rangle = c_q T$$
+所 
 
 
 
