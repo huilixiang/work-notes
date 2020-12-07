@@ -24,7 +24,7 @@ $$\Large h_p(x) = e^{\frac{i2\pi px}{T}}$$ , 定义在区间[0, T]上。 i是虚
 $$\Large \left \langle h_p, h_q \right \rangle = \int_{0}^{T}h_p(x)\bar{h}_q(x) dx = \int_{0}^{T} e^{\frac{i2\pi px}{T}} e^{-\frac{i2\pi qx}{T}}dx = 0$$  导函数本质上是一个三角函数， 所以在一个周期内的积分为0。
 
 复数的内积 $$ \left \langle u, v \right \rangle = \bar{v} * u , \bar{v}与v共轭$$
-$$\Large ||h_p||^2 = <h_p, h_p>$$
+$$\Large ||h_p||^2 = \left \langle h_p, h_p \right \rangle$$
 
 
 
