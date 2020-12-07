@@ -33,6 +33,8 @@ $$\Large \left \langle f, h_p \right \rangle = \left \langle \sum_q c_q f_q(x), 
 所以系数
 $$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \int_{0}^{T}f(x) \bar{h}_p(x) dx =  \frac{1}{T} \int_{0}^{T}f(x) e^{-i2 \pi px} dx $$
 
+## reproducing kernel hilbert space
+
 <br/>
 <br/>
 <br/>
