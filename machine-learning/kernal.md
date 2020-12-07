@@ -18,7 +18,8 @@ $$\Large \left \langle f, g \right \rangle = lim_{\Delta x \to 0} \sum_{i}f(x_i)
 向量有整数“维度”的概念， 不能有0.5维。 因此我们使用$$\Delta x$$ 来归一化。
 
 ### fourier series
-让 
+让我们定义基函数： $$\{h_p\}_{p=-\infty}^{+\infty}$$.  p是整数。 
+$$\large h_p(x)$$
 
 
 
