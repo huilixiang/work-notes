@@ -5,4 +5,4 @@
 
 ### inner product
 内积用来度量两个向量的相似性。 对于两个向量 x, y, 内积表示一个向量在另一个向量上的投影。
-$$ \left \langle X, Y \right \range =  $$
+$$ \left \langle  \right \rangle $$
