@@ -6,5 +6,7 @@
 ### inner product
 内积用来度量两个向量的相似性。 对于两个向量 x, y, 内积表示一个向量在另一个向量上的投影。 
 $$ \left \langle X, Y \right \rangle = |X||Y|cos \theta $$
-如果
+如果 $$X=(x_1, x_2,...,x_n), Y=(y_1, y_2, ...,y_n)$$ 则
+$$ \left \langle X, Y \right \rangle = \sum_{i=1}^nx_iy_i $$
+
 
