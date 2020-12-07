@@ -15,6 +15,11 @@ $$ \left \langle X, Y \right \rangle = \sum_{i=1}^nx_iy_i $$
 当把x换成一个向量的时间， 上面依然成立（不仅限于实数）。 f(x)用来表现函数在x处的值。 函数与向量是如此的相似，以至于我们可以像向量一样， 定义函数的内积。 对于两个函数：f , g, 按$$\Delta x$$采样， 则内积可以表示为：
 $$\Large \left \langle f, g \right \rangle = lim_{\Delta x \to 0} \sum_{i}f(x_i)g(x_i) \Delta x = \int f(x)g(x)dx$$
 
+向量有整数“维度”的概念， 不能有0.5维。 因此我们使用$$\Delta x$$ 来归一化。
+当
+
+
+
 
 
 
