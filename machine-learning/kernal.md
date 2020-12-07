@@ -19,7 +19,7 @@ $$\Large \left \langle f, g \right \rangle = lim_{\Delta x \to 0} \sum_{i}f(x_i)
 
 ### fourier series
 让我们定义基函数： $$\{h_p\}_{p=-\infty}^{+\infty}$$.  p是整数。 
-$$\large h_p(x) = e^{\frac{i2\pi px}{T}}$$
+$$\Large h_p(x) = e^{\frac{i2\pi px}{T}}$$
 
 
 
