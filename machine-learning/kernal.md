@@ -16,8 +16,9 @@ $$ \left \langle X, Y \right \rangle = \sum_{i=1}^nx_iy_i $$
 $$\Large \left \langle f, g \right \rangle = lim_{\Delta x \to 0} \sum_{i}f(x_i)g(x_i) \Delta x = \int f(x)g(x)dx$$
 
 向量有整数“维度”的概念， 不能有0.5维。 因此我们使用$$\Delta x$$ 来归一化。
-当
 
+### fourier series
+让 
 
 
 
