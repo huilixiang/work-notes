@@ -34,6 +34,10 @@ $$\Large \left \langle f, h_p \right \rangle = \left \langle \sum_q c_q f_q(x), 
 $$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \int_{0}^{T}f(x) \bar{h}_p(x) dx =  \frac{1}{T} \int_{0}^{T}f(x) e^{-i2 \pi px} dx $$
 
 ## reproducing kernel hilbert space
+我们可以像在$$R^n$$空间中寻找正交基向量一样， 在函数空间中寻找正交基函数。
+核方法的动机： 将$$R^n$$空间中的向量映射成特征空间中的另外一个向量。 低维空间中不可分的点。 映射到更高维空间后，变得可分。    
+
+### 特征值分解
 
 <br/>
 <br/>
