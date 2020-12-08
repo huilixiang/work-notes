@@ -40,7 +40,7 @@ $$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \in
 ### 特征值分解
 一个实对称矩阵A， 如果存在一个实数 $$\lambda 与一个向量 x$$. 使得: $$Ax = \lambda x$$ . 则称$$\lambda $$ 为A的特征值，对应的特征向量是x.  如果我们有两个特征值： $$\lambda_1, \lambda_2 , 且 \lambda_1 \neq \lambda_2 , ， 其对应的特征向量为 x_1, x_2$$ , 则：
 $$\Large \lambda_1 x_1^T x_2 = x_1^TAx_2 = x_1^T\lambda_2 x_2 = \lambda_2 x_1^T x_2 $$
-因为$$\lambda_1 \neq \lambda_2, ,所以 x_1^T x_2  = 0 ， 即正交$$
+因为$$\lambda_1 \neq \lambda_2, ,所以 x_1^T x_2  = 0 ， 即正交$$ 
 <br/>
 <br/>
 <br/>
