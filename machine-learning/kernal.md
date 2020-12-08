@@ -38,7 +38,7 @@ $$\Large c_p = \frac{1}{T} \left \langle f, h_p \right \rangle = \frac{1}{T} \in
 核方法的动机： 将$$R^n$$空间中的向量映射成特征空间中的另外一个向量。 低维空间中不可分的点。 映射到更高维空间后，变得可分。    
 
 ### 特征值分解
-
+一个实对称矩阵A， 如果存在一个实数 $$\lambda 与一个向量 x$$. 使得: $$Ax = \lambda x$$ . 则称$$\lambda $$ 为A的特征值，对应的特征向量是x.  如果我们有两个特征值： $$\lambda_1, \lambda_2 , 且 \lambda_1 \neq \lambda_2 , ， 其对应的特征向量为 x_1, x_2$$ 
 <br/>
 <br/>
 <br/>
