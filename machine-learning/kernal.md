@@ -43,7 +43,7 @@ $$\Large \lambda_1 x_1^T x_2 = x_1^TAx_2 = x_1^T\lambda_2 x_2 = \lambda_2 x_1^T 
 因为$$\Large  \lambda_1 \neq \lambda_2, ,所以 x_1^T x_2  = 0 ， 即正交$$ 
 若$$\Large A \in R^{n*n}, 我们可以找到n个特征值以及对应的n个正交的特征向量。 A可以被分解成：$$
 $$\Large A = QDQ^{-1}. 其中Q是正交矩阵， D是由特征值构成的对角矩阵$$
-$$\large A = QDQ^{-1} = (q_1, q_2, ..., q_n) \begin \pmatrix \end \pmatrix $$
+$$\large A = QDQ^{-1} = (q_1, q_2, ..., q_n) \begin{pmatrix} \lambda_1 \end{pmatrix} $$
 <br/>
 <br/>
 <br/>
