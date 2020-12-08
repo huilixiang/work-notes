@@ -62,7 +62,7 @@ q_2^T \\
 q_n^T \\
 \end{pmatrix} \\
 
-= \sum_{i=1}^{n}\lambda_i q_i q_i^T
+\Large = \sum_{i=1}^{n}\lambda_i q_i q_i^T
 $$
 
 <br/>
