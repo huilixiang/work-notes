@@ -60,7 +60,8 @@ q_1^T \\
 q_2^T \\
 \vdots \\
 q_n^T \\
-\end{pmatrix} <br/>
+\end{pmatrix} \\
+
 = \sum_{i=1}^{n}\lambda_i q_i q_i^T
 $$
 
