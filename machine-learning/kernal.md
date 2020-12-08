@@ -55,6 +55,13 @@ q_2^T \\
 \vdots \\
 q_n^T \\
 \end{pmatrix}
+= (\lambda_1 q_1, \lambda_2 q_2, \cdots, \lambda_n q_n) \begin{pmatrix}
+q_1^T \\
+q_2^T \\
+\vdots \\
+q_n^T \\
+\end{pmatrix}
+= \sum_{i=1}^{n}\lambda_i q_i q_i^T
 $$
 
 <br/>
