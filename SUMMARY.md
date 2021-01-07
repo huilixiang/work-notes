@@ -13,6 +13,7 @@
     * [模型解释](machine-learning/model-interpretation.md)
     * [tensorflow](machine-learning/tensorflow.md)
     * [线性模型](machine-learning/linear-model.md)
+    * [从vc维到svm](machine-learning/linear-model.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
