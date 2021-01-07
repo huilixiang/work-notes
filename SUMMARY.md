@@ -11,6 +11,7 @@
     * [深度信念网络](machine-learning/deep-belief-nets.md)
     * [贝叶斯定理](machine-learning/bayesian.md)
     * [模型解释](machine-learning/model-interpretation.md)
+    * [tensorflow](machine-learning/tensorflow.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
