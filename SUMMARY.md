@@ -9,6 +9,7 @@
     * [变分法](machine-learning/variational-inference.md)
     * [lightgbm](machine-learning/lightgbm.md)
     * [深度信念网络](machine-learning/deep-belief-nets.md)
+    * [贝叶斯定理](machine-learning/bayesian.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
