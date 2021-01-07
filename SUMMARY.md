@@ -7,6 +7,7 @@
     * [采样](machine-learning/sampling.md)
     * [因子机](machine-learning/factorization-machine.md)
     * [变分法](machine-learning/variational-inference.md)
+    * [lightgbm](machine-learning/lightgbm.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
