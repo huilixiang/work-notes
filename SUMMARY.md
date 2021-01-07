@@ -14,6 +14,7 @@
     * [tensorflow](machine-learning/tensorflow.md)
     * [线性模型](machine-learning/linear-model.md)
     * [从vc维到svm](machine-learning/vc-dimension-svm.md)
+    * [hessian矩阵](machine-learning/hessian-matrix.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
