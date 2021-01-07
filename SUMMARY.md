@@ -6,6 +6,7 @@
     * [迁移学习](machine-learning/transfer-learning.md)
     * [sampling](machine-learning/sampling.md)
     * [factorization-machine](machine-learning/factorization-machine.md)
+    * [variational-inference](machine-learning/variational-inference.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
