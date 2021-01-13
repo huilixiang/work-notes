@@ -7,4 +7,4 @@ $$\Large \mu(x)  $$
  
 一般具有两个性质
 1. $$如果 x \le y , 则：\mu(x) \le \mu(y) $$. 对于一个人来说，钱越多越好
-2. $$如果 d \ge 0, 并且 x \le y, 则： $$
+2. $$如果 d \ge 0, 并且 x \le y, 则： \mu(x + d) - \mu(x) \ge \mu(y+d) - \mu(y) $$
