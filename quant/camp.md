@@ -39,6 +39,17 @@ expected utitlity hypothesis: 如果一个投资者的效用函数是$$\mu(x)$$,
 
 投资 
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+
 
 
 
