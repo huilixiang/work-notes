@@ -33,6 +33,7 @@ expected utitlity hypothesis: 如果一个投资者的效用函数是$$\mu(x)$$,
 - 对于一个随机变量R， E[R] = 0 , 我们说R是一个零收益投资
 - 设$$\mu$$ 是一个正常的效用函数， $$x_0 \ge 0 , R为零收益投资， 则 E[\mu(x_0 + R)] \le \mu(x_0) $$
 
+也 
 
 
 
