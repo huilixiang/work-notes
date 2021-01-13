@@ -20,4 +20,5 @@
     * [python](programming-language/python.md)
 * [业务总结](it-finance/README.md)
     * [互金风控之权益](it-finance/amount.md)
-
+* [量化投资](quant/README.md)
+    * [CAMP模型](quant/camp.md)
