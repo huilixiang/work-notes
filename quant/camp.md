@@ -13,6 +13,6 @@ $$\Large \mu(x)  $$, 输入： 财富总额。 输出： 给人带来多少效�
 $$\Large f(\frac{x+y}{2}) \ge \frac{f(x) + f(y)}{2}$$
 
 ### 预期效用假说
-ex
+expected utitlity hypothesis: 如果一个投资者的效用函数是$$\mu(x)$$, 面对N种投资选项， 这些投资选项对应的财富结果用$$x_1, x_2, ..., x_n$$表示 , 则投资者会选择 $$E[\mu(x)] $$ 最大的选项 
 
 
