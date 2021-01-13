@@ -10,6 +10,6 @@ $$\Large \mu(x)  $$, 输入： 财富总额。 输出： 给人带来多少效�
 
 ### 效用函数是凹函数
 
-$$\Large f(\frac{x+y}{2}) \le \frac{f(x) + f(y)}{2}$$
+$$\Large f(\frac{x+y}{2}) \ge \frac{f(x) + f(y)}{2}$$
 
 
