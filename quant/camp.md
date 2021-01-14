@@ -71,7 +71,7 @@ $$\Large 最小化  Var(r_p) = \sum_{i=1}^n\sum_{j=1}^nw_i w_j Cov(r_i, r_j)$$ <
 $$\Large 满足 E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \mu $$ <br/>
 $$\Large 满足 \sum_{i=1}^n w_i = 1$$
 
-受
+有约束的二次优化问题， largrange乘子法解决。
 
 
 
