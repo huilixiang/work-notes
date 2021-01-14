@@ -84,6 +84,10 @@ $$\Large \sigma_{\alpha} = \sqrt{Var(\alpha r_p * (1 - \alpha)r_f])} = \sqrt{\al
 如上图所示，蓝点是无风险收益利率， 红点是有效前沿上的风险资产配置P， 那么黄线上的所有点都是可以按照一定比例配置无风险资产和资产配置P得到的。 该射线的斜率为夏普比例（sharpe ratio）<br/>
 $$\Large S_p := \frac{E[r_p] -r_f}{\sigma_p - \sigma_{rf}} = \frac{E[r_p] -r_f}{\sigma_p}$$
 
+### 市场组合和资本线
+经
+
+
 <br/>
 <br/>
 <br/>
