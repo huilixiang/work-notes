@@ -71,8 +71,8 @@ $$\Large 最小化  Var(r_p) = \sum_{i=1}^n\sum_{j=1}^nw_i w_j Cov(r_i, r_j)$$ <
 $$\Large 满足 E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \mu $$ <br/>
 $$\Large 满足 \sum_{i=1}^n w_i = 1$$
 
-有约束的凸优化问题， largrange乘子法解决。
-
+有约束的凸优化问题， largrange乘子法解决。  将这些最优解画成图，在标准差--预期坐标上， 得到一个抛物线。这条曲线叫做：有效前沿， efficient frontier.  由于它的形状抱紧
+![avatar](https://image.joinquant.com/7509fe497b1a1106a0b7e9fb317ff998)
 
 
 <br/>
