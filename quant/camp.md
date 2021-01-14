@@ -71,8 +71,9 @@ $$\Large 最小化  Var(r_p) = \sum_{i=1}^n\sum_{j=1}^nw_i w_j Cov(r_i, r_j)$$ <
 $$\Large 满足 E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \mu $$ <br/>
 $$\Large 满足 \sum_{i=1}^n w_i = 1$$
 
-有约束的凸优化问题， largrange乘子法解决。  将这些最优解画成图，在标准差--预期坐标上， 得到一个抛物线。这条曲线叫做：有效前沿， efficient frontier.  由于它的形状抱紧
+有约束的凸优化问题， largrange乘子法解决。  将这些最优解画成图，在标准差--预期坐标上， 得到一个抛物线。
 ![avatar](https://image.joinquant.com/7509fe497b1a1106a0b7e9fb317ff998)
+这条曲线叫做：有效前沿， efficient frontier.  由于它的形状像一个子弹， 因此也叫：马科维兹子弹。 有效前沿存在一个波动率最小的地方，也就是曲线最靠左的地方， 并且在这个点以上的位置才是有效的。
 
 
 <br/>
