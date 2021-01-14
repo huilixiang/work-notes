@@ -85,7 +85,10 @@ $$\Large \sigma_{\alpha} = \sqrt{Var(\alpha r_p * (1 - \alpha)r_f])} = \sqrt{\al
 $$\Large S_p := \frac{E[r_p] -r_f}{\sigma_p - \sigma_{rf}} = \frac{E[r_p] -r_f}{\sigma_p}$$
 
 ### 市场组合和资本线
-经
+经计算可以证明， 用市场信息计算得来的有效前沿上必定有一个夏普比例最高的点， 我们叫做市场组合（market portfolio）
+![avatar](https://image.joinquant.com/af3f77f9b9f514761462c1add904d8b3)
+图中的蓝点是无风险资产，红点是市场组合，穿过它们的射线叫做资本市场线(capital market line)。红点和蓝点之间的位置是将一份资金存于无风险资产，并将余下资金买入市场组合而得到的；红点右侧的位置是以无风险利率进行一些贷款，并将本金连同贷款全部买入市场组合的配置。
+高 
 
 
 <br/>
