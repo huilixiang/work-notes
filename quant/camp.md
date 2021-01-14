@@ -61,6 +61,7 @@ expected utitlity hypothesis: 如果一个投资者的效用函数是$$\mu(x)$$,
  $$\Large r_p = \sum_{i=1}^n w_i * r_i$$ <br/>
 $$\Large 预期收益：E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \sum_{i=1}^nw_i E[r_i]$$ <br/>
 $$\Large 方差:  Var(r_p) = E[(r_p - E[r_p])^T(r_p - E[r_p])] = \sum_{i=1}^n\sum_{j=1}^nw_i w_j Cov(r_i, r_j)$$
+$$\Large 标准差： \sigma_p = \sqrt{Var(r_p)}$$
 
  
 - a
