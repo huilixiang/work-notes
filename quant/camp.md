@@ -59,7 +59,8 @@ expected utitlity hypothesis: 如果一个投资者的效用函数是$$\mu(x)$$,
 - 假设市面上有n种金融资产,  对于某项资产i, 表示其收益率的随机变量为$$r_i， E[r_i]表示期望收益， \sigma_i表示收益变量的标准差$$, 我们将市面上所有收益率方差大于0 的叫做风险资产（risk assts） 。将收益率没有不确定性的资产叫做无风险资产(risk-free assts). 并且假设市场上所有无风险资产的收益率是一样的， 叫做无风险利率（risk-free interest rate ）, 写作$$r_f$$.
 - 一个风险资产配置(risky portfolio ) P 是由风险资产i = 1, 2, ..., n按照某个权重比例组成的， 每个资产i在P中的权重记作$$w_i$$, 满足$$\sum_{i=1}^nw_i = 1$$. 我们假设市场是完全开放的， 可以自由的做多或做空。 根据单个资产的收益率， 我们可以计算P的收益率， 首先资产组合收益率的随机变量是：<br/>
  $$\Large r_p = \sum_{i=1}^n w_i * r_i$$ <br/>
-$$\Large 预期收益：E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \sum_{i=1}^nw_i E[r_i]$$
+$$\Large 预期收益：E[r_p] = E[\sum_{i=1}^n w_i * r_i] = \sum_{i=1}^nw_i E[r_i]$$ <br/>
+$$\Large 方差:  Var(r_p) = E[(r_p - E[r_p])^T(r_p - E[r_p])]$$
  
 - a
 
