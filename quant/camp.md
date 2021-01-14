@@ -77,7 +77,9 @@ $$\Large 满足 \sum_{i=1}^n w_i = 1$$
 
 ### 加入无风险资产
 有效前沿左侧的区域是通过风险资产无法配置出来的。 但是， 如果无风险资加入配置， 那么左侧的一些位置可以获取。
-我们选择有效前沿上的一个资产配置P， 并选择 比例 $$\alpha \ge 0$$
+我们选择有效前沿上的一个资产配置P， 并选择 比例 $$\alpha \ge 0$$, 将本金的$$\alpha$$ 配置于P， $$1 - \alpha$$ 配置于无风险资产。 当 $$\alpha \gt 1$$时， 我们称贷款本金的$$\alpha - 1$$倍， 支付无风险利率，并用贷款以及本金配置P， 如此， 以$$\alpha$$为系数， 使用P和无风险资产配置的一个资产组合 ， 我们将它的收益随机变量记为$$r_\alpha$$ 计算得到: <br/>
+$$\Large E[r_p] = E[\alpha r_p * (1 - \alpha)r_f]$$<br/>
+$$\Large \sigma_{\alpha} = \sqrt{Var(\alpha r_p * (1 - \alpha)r_f])} = \sqrt{\alpha^2Var(r_p)} = \alpha \sigma_p$$ 
 
 
 <br/>
