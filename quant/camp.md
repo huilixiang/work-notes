@@ -75,6 +75,7 @@ $$\Large 满足 \sum_{i=1}^n w_i = 1$$
 ![avatar](https://image.joinquant.com/7509fe497b1a1106a0b7e9fb317ff998)
 这条曲线叫做：有效前沿， efficient frontier.  由于它的形状像一个子弹， 因此也叫：马科维兹子弹。 有效前沿存在一个波动率最小的地方，也就是曲线最靠左的地方， 并且在这个点以上的位置才是有效的。
 
+### 加入无风险资产
 
 <br/>
 <br/>
