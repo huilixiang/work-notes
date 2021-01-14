@@ -64,7 +64,9 @@ $$\Large 方差:  Var(r_p) = E[(r_p - E[r_p])^T(r_p - E[r_p])] = \sum_{i=1}^n\su
 $$\Large 标准差： \sigma_p = \sqrt{Var(r_p)}$$
 
  
-- a
+### 有效前沿
+
+现在 
 
 
 
