@@ -95,6 +95,9 @@ $$\Large \mu = r_f * S_M * \sigma$$
 ## CAMP模型
 全称Capital Asset Pricing Model, 资本资产定价模型。搭建在markowitz的现代资产配置理论（MPT） 之上，该模型用简单的数学公式表述了资产的收益率与风险系数$$\beta$$以及系统性风险之间的关系。 尽管CAPM的假设偏于牵强，结论也常与实验证据违背， 但它一直是金融经济学中重要的理论， 为更好的模型打下了基础
 
+### 模型假设
+CAPM
+
 <br/>
 <br/>
 <br/>
