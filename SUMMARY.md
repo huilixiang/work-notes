@@ -16,6 +16,7 @@
     * [从vc维到svm](machine-learning/vc-dimension-svm.md)
     * [hessian矩阵](machine-learning/hessian-matrix.md)
     * [ESL-笔记](machine-learning/ESL-笔记.md)
+    * [数学建模](machine-learning/数学建模.md)
 * [编程语言](programming-language/README.md)
     * [SQL](programming-language/SQL.md)
     * [python](programming-language/python.md)
