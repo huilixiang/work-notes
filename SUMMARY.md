@@ -25,4 +25,4 @@
     * [互金风控之生存模型](it-finance/survival-model.md)
 * [量化投资](quant/README.md)
     * [CAMP模型](quant/camp.md)
-    * [股票投资](quant/股票投资.md)
+    * [股票投资-2021H2](quant/股票投资.md)
